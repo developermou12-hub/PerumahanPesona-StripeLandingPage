@@ -1,0 +1,23 @@
+@import "tailwindcss";
+:root {
+  /* 🌿 Primary Color Palette */
+  --color-primary: #3BAE82;     /* Toska utama */
+  --color-primary-dark: #2E8C68;
+  --color-primary-light: #8FDCC1;
+
+  /* ☀️ Accent & Highlight */
+  --color-accent: #FFD166;      /* Kuning lembut untuk tombol & highlight */
+  --color-accent-dark: #E0B958;
+
+  /* 🩶 Neutrals & Background */
+  --color-bg: #F9FAFB;          /* Putih abu terang */
+  --color-bg-dark: #E5E7EB;     
+  --color-text: #1F2937;        /* Abu gelap, kontras dengan background */
+  --color-text-light: #6B7280;
+
+  /* ❤️ Status Colors (opsional) */
+  --color-success: #10B981;
+  --color-error: #EF4444;
+  --color-warning: #F59E0B;
+}
+
